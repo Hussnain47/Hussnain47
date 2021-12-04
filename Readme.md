@@ -3,8 +3,8 @@
 <br>
 
 - 🎓 I am a 3rd Year Undergraduate student of Computer Engineering at <a href="https://uet.edu.pk"> <b>UET, Lahore</b> </a>
-- 🔭 I’m currently working a Web Chatting App.
-- 🌱 I’m currently learning **React and Node**
+- 🔭 I’m currently working a Music Genre Classifier.
+- 🌱 I’m currently learning **Deep Learning**
 - ⚡ I'm a Tech Enthusiast
 
 <h3 align="left">Connect with me:</h3>
