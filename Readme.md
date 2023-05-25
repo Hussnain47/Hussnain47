@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Hussnain</h1>
-<h3 align="center"> Web Developer</h3> 
+<h3 align="center">Full Stack Developer</h3> 
 <br>
 
-- 🎓 I am a 3rd Year Undergraduate student of Computer Engineering at <a href="https://uet.edu.pk"> <b>UET, Lahore</b> </a>
-- 🔭 I’m currently working a Music Genre Classifier.
-- 🌱 I’m currently learning **Deep Learning**
+- 🎓 I am a Undergraduate student of Computer Engineering at <a href="https://uet.edu.pk"> <b>UET, Lahore</b> </a>
+- 🔭 I’m currently working at <a href="https://www.educative.io"> <b>Educative.io </b> </a>.
+- 🌱 I’m currently learning **Pen Testing**
 - ⚡ I'm a Tech Enthusiast
 
 <h3 align="left">Connect with me:</h3>
