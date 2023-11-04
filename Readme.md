@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3> 
 <br>
 
-- 🎓 I am a Undergraduate student of Computer Engineering at <a href="https://uet.edu.pk"> <b>UET, Lahore</b> </a>
+- 🎓 I majored in Computer Engineering at <a href="https://uet.edu.pk"> <b>UET, Lahore</b> </a>
 - 🔭 I’m currently working at <a href="https://www.educative.io"> <b>Educative.io </b> </a>.
 - 🌱 I’m currently learning **Pen Testing**
 - ⚡ I'm a Tech Enthusiast
@@ -34,8 +34,4 @@
 <hr>
 <p align="center">
     <img class="darkMode" src="https://github-readme-stats.vercel.app/api?username=hussnain47&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="hussnain47"/>
-</p>
-<p align="center">
-    <img class="darkMode" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hussnain47&theme=dark&hide_border=true&ring=30d158&fire=30d158&currStreakLabel=30d158&background=0d1117&stroke=00000000&count_private=true&include_all_commits=true" />
-    <img class="darkMode"  src="https://activity-graph.herokuapp.com/graph?username=hussnain47&count_private=true&hide_border=true&bg_color=0d1117&custom_title=Contributions&line=34c75950&point=34c759&theme=github" />
 </p>
