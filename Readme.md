@@ -32,6 +32,3 @@
 
 <br>
 <hr>
-<p align="center">
-    <img class="darkMode" src="https://github-readme-stats.vercel.app/api?username=hussnain47&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="hussnain47"/>
-</p>
