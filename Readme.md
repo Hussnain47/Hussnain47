@@ -3,7 +3,6 @@
 <br>
 
 - 🎓 I majored in Computer Engineering at <a href="https://uet.edu.pk"> <b>UET, Lahore</b> </a>
-- 🔭 I’m currently working at <a href="https://www.vartana.com/"> <b>Vartana </b> </a>.
 - 🌱 I’m currently learning **LangChain and LLMs**
 - ⚡ I'm a Tech Enthusiast
 
